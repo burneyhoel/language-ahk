@@ -1,3 +1,3 @@
-# language-pick-basic package
+# language-ahk package
 
 AHK grammar for ATOM.
