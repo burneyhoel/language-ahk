@@ -7,9 +7,6 @@
     "AutoHotKey",
     "Auto Hot Key"
   ],
-  "activationCommands": {
-    "atom-workspace": "language-ahk:toggle"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/theexec/language-ahk.git"
